@@ -1,0 +1,5 @@
+.box {
+  height: 100vh;
+  background-image: url(./bg2/OIP.jpg), url(./bg2/anh2.jpg);
+  /* background-repeat: repeat; */
+}

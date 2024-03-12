@@ -1,0 +1,8 @@
+body {
+  width: 650px;
+}
+strong {
+  height: 100px;
+  width: 200px;
+  display: inline-block;
+}

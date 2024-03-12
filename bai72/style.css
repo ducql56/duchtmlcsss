@@ -1,0 +1,11 @@
+.box {
+  width: 400px;
+  height: 200px;
+  border: 5px dashed yellow;
+  background-image: url(https://vnmedia.vn/file/8a10a0d36ccebc89016ce0c6fa3e1b83/old_image/201611/original/chum-anh-hai-huoc-khi-cho-cung-an-dien-nhu-con-nguoi-1830775.jpg);
+  background-position: top right;
+  background-position: bottom right;
+  background-position: top;
+  background-position: bottom;
+  background-position: 50% 50%;
+}

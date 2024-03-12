@@ -1,0 +1,12 @@
+li {
+  list-style-type: none;
+  margin-top: 4px;
+}
+.fa-brands,
+.fa-thin {
+  color: pink;
+  margin-right: 4px;
+}
+.fa-facebook {
+  color: blue;
+}

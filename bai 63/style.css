@@ -1,0 +1,12 @@
+strong {
+  /* text-decoration: none;
+  text-decoration: underline;
+  text-decoration: overline;
+  text-decoration: line-through;
+  text-decoration: line-through overline; */
+  text-decoration: underline dotted blue;
+}
+.line {
+  text-indent: 40px;
+  text-transform: uppercase;
+}
